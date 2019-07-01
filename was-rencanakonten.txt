@@ -1,6 +1,8 @@
 rencana konten
 ecommerce web 
   Menggunakan laravel
+  menggunakan angular
+  
 ecommerce mobile app
   menggunakan kotlin
-menambah karya ui/ux design
+
