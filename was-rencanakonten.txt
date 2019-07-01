@@ -1,3 +1,5 @@
 rencana konten
 ecommerce web 
+  Menggunakan laravel
 ecommerce mobile app
+  menggunakan kotlin
